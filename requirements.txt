@@ -2,4 +2,5 @@ Django
 djangorestframework
 psycopg2
 psycopg2-binary
+Pillow
 flake8
